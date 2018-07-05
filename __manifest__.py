@@ -15,7 +15,7 @@ Functional Credit Feature for easy to record Credit Transaction
     'depends': ['report'],
     'data': [
         # 'security/ir.model.access.csv',
-        # 'views/accounting_assert_test_views.xml',
+        'views/accounting_assert_test_views.xml',
         # 'report/accounting_assert_test_reports.xml',
         # 'data/accounting_assert_test_data.xml',
         # 'report/report_account_test_templates.xml',
